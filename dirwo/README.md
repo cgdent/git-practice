@@ -11,3 +11,4 @@
 - git branch -c first-branch
 - git checkout first-branch
 - git branch
+- git checkout -b new-branch (same as git branch + git checkout)
