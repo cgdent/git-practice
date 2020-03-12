@@ -4,7 +4,10 @@
 
 - git init
 - git status
-- git add
+- git add "file1" "file2"
 - git commit -m "messsage"
 - git log
 - git config
+- git branch -c first-branch
+- git checkout first-branch
+- git branch
