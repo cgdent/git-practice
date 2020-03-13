@@ -8,3 +8,4 @@
 - git commit -m "messsage"
 - git log
 - git config
+- git branch -v (latest commit on each branch)
