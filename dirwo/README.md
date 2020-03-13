@@ -9,3 +9,4 @@
 - git log
 - git config
 - git branch -v (latest commit on each branch)
+- git merge
