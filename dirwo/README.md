@@ -15,3 +15,8 @@
 - git branch -c first-branch
 - git checkout first-branch
 - git checkout -b new-branch (same as git branch + git checkout)
+- git diff
+- git diff --cached
+- git log --oneline --all
+- git diff 65a08ef..bcab3a4
+- git diff first-branch..new-branch
