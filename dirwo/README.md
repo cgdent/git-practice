@@ -11,5 +11,7 @@
 - git branch -v (latest commit on each branch)
 - git merge
 - git commit -am "git commit and merge in one command"
-
 # Merging - bringing changes in one branch into another branch
+- git branch -c first-branch
+- git checkout first-branch
+- git checkout -b new-branch (same as git branch + git checkout)
