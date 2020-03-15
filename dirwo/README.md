@@ -4,7 +4,7 @@
 
 - git init
 - git status
-- git add
+- git add "file1" "file2"
 - git commit -m "messsage"
 - git log
 - git config
