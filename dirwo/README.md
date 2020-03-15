@@ -21,3 +21,5 @@
 - git diff 65a08ef..bcab3a4
 - git diff first-branch..new-branch
 - git show (show a single commit)
+- git remote add <remote> <url>: (add a new remote at url) 
+- git remote -v (list remote repos)
