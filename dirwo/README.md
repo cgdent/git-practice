@@ -20,3 +20,4 @@
 - git log --oneline --all
 - git diff 65a08ef..bcab3a4
 - git diff first-branch..new-branch
+- git show (show a single commit)
